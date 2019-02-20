@@ -66,6 +66,9 @@ chmod +x  backup.sh
 ```
 şeklinde dosyamıza gerekli çalıştırma iznini veriyoruz. 
 Bu noktadan sonra scriptimizi ister ./backup.sh ile manuel çalıştırıp yedeğimizi alabiliriz istersek bunu otomatik hale getirip manuel yedek alma işinden kurtuluruz.
+
+https://ibb.co/txL0TNR
+
 ### Crontab
 
 Ben burada Crontab görev zamanlayıcısını kullanıp script dosyamızın belirlediğimiz saatlerde otomatik çalışmasını sağladım.
