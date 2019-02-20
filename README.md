@@ -44,6 +44,8 @@ put $fortiip$NOW.txt
 bye
 ENDFTP
 ```
+https://ibb.co/wptcnjH 
+
 Alınan her yedek kaydedilirken, o günün tarihine göre isimlendirilecek.
 Alınan yedeği windows sunucusuna göndermek için sunucuda  ftp server kurup , konfig dosyasını da  backup işleminden sonra ftp sunucuna upload ettim.
 ### Fortigate
@@ -84,5 +86,5 @@ Crontab dosyamızı açtıktan sonra crontab dosyamızın sonuna
 ``` 
 https://ibb.co/Vmt5fKc
 
-komut satırını ekleriz.Burada her gün Saat 20.00'da ilgili /home/ituser dizininde bulunan backup.sh dosyamız run edilsin şeklinde bir girdi hazırlamış olduk.Bu satırı siz kendinie göre editleyebilirsiniz.
+komut satırını ekleriz.Burada her gün Saat 20.00'da ilgili /home/ituser dizininde bulunan backup.sh dosyamız run edilsin şeklinde bir girdi hazırlamış olduk.Bu satırı da siz kendinize göre editleyebilirsiniz.
 
