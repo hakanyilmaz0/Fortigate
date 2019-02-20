@@ -1,1 +1,0 @@
-# fortigate-backup-bash
