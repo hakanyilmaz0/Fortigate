@@ -82,5 +82,7 @@ Crontab dosyamızı açtıktan sonra crontab dosyamızın sonuna
 ```sh
 00 20 * * *  /home/ituser/backup.sh 
 ``` 
+https://ibb.co/Vmt5fKc
+
 komut satırını ekleriz.Burada her gün Saat 20.00'da ilgili /home/ituser dizininde bulunan backup.sh dosyamız run edilsin şeklinde bir girdi hazırlamış olduk.Bu satırı siz kendinie göre editleyebilirsiniz.
 
