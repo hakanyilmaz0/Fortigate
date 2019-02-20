@@ -56,6 +56,8 @@ config system console
      set output standard
 end
 ```
+https://ibb.co/SJn1cHw
+
 şeklinde forti cihazımızda  konfig değişikliliği yapmamız gerekiyor , bu sayede show çıktısı istediğimizde konfigürasyon çıktımızı bir seferde elde edeceğiz  aksi durumda ise  yarım konfigürasyon çıktısı elde edilir.
 
 ### Ubuntu
